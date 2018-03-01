@@ -14,5 +14,7 @@ public class Math{
     return a+b;
   }
 
-
+  public int mins(){
+    return a-b;
+  }
 }
